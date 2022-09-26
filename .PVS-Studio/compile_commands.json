@@ -1,0 +1,12 @@
+[
+  {
+    "file": "D:\\DataStruct\\Review\\MultiDimensionalArray3\\main.c",
+    "command": "\"C:\\Program Files\\JetBrains\\CLion 2022.2.3\\bin\\mingw\\bin\\gcc.exe\" \"D:\\DataStruct\\Review\\MultiDimensionalArray3\\main.c\" -g -std\u003dgnu11",
+    "directory": "D:\\DataStruct\\Review\\MultiDimensionalArray3"
+  },
+  {
+    "file": "D:\\DataStruct\\Review\\MultiDimensionalArray3\\multiArray.c",
+    "command": "\"C:\\Program Files\\JetBrains\\CLion 2022.2.3\\bin\\mingw\\bin\\gcc.exe\" \"D:\\DataStruct\\Review\\MultiDimensionalArray3\\multiArray.c\" -g -std\u003dgnu11",
+    "directory": "D:\\DataStruct\\Review\\MultiDimensionalArray3"
+  }
+]

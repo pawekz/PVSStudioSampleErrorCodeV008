@@ -1,0 +1,11 @@
+# ninja log v5
+2	297	6858875332065994	build.ninja	688e1c3ab38bd5f2
+12	323	6858633393532632	CMakeFiles/MultiDimensionalArray3.dir/multiArray.c.obj	80a3c7df837cb405
+5	322	6858633393412719	CMakeFiles/MultiDimensionalArray3.dir/main.c.obj	c52412a9cbb7dfaf
+324	534	6858633395721256	MultiDimensionalArray3.exe	470787d9b52c9351
+15	586	6858911742602016	CMakeFiles/MultiDimensionalArray3.dir/main.c.obj	c52412a9cbb7dfaf
+5	595	6858911742642005	CMakeFiles/MultiDimensionalArray3.dir/multiArray.c.obj	80a3c7df837cb405
+595	959	6858911746330042	MultiDimensionalArray3.exe	470787d9b52c9351
+13	324	6858914519289763	CMakeFiles/MultiDimensionalArray3.dir/main.c.obj	c52412a9cbb7dfaf
+4	333	6858914519389712	CMakeFiles/MultiDimensionalArray3.dir/multiArray.c.obj	80a3c7df837cb405
+333	506	6858914521091676	MultiDimensionalArray3.exe	470787d9b52c9351
